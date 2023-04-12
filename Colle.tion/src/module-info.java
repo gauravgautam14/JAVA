@@ -1,0 +1,2 @@
+module Colle.tion {
+}
